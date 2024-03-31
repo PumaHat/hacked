@@ -1,0 +1,28 @@
+/* Footer */
+#footer {
+    background-color: #272b29;
+}
+
+.fab {
+    color: white;
+    font-size: 2em;
+}
+
+.fab:hover {
+    color: #01bb30;
+}
+
+#footer-info{
+    color: white;
+}
+
+#contact-info {
+    text-align: left;
+}
+
+#contact-info-social {
+    display: grid;
+    place-items: center;
+}
+
+/*^Footer^*/

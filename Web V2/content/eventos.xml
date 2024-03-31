@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+    <element>
+        <titulo>PumaHat Cybersecurity Week</titulo>
+        <descripcion>Acompaña a PumaHat en la primera edición de la semana de la ciberseguridad, habrá conferencias, talleres y un CTF. Abierto para todo público.</descripcion>
+        <imagen>image/logoPH.jpg</imagen>
+        <fecha>No me acuerdo :P</fecha>
+    </element>
+
+    <element>
+        <titulo>HackGDL</titulo>
+        <descripcion>Acompaña a PumaHat en su participación en el HackGDL.</descripcion>
+        <imagen>image/logoPH.jpg</imagen>
+        <fecha>Algun dia</fecha>
+    </element>
+
+</data>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+    <element>
+        <image>
+            image/logoPH.jpg
+        </image>
+        <title>
+            Material 1 en XML
+        </title>
+        <description>
+            Descripcion del material 1.
+        </description>
+        <enlace>
+            https://github.com
+        </enlace>
+    </element>
+
+    <element>
+        <image>
+            image/logoPH.jpg
+        </image>
+        <title>
+            Material 2 en XML
+        </title>
+        <description>
+            Descripcion del material 2.
+        </description>
+        <enlace>
+            https://github.com
+        </enlace>
+    </element>
+
+    <element>
+        <image>
+            image/logoPH.jpg
+        </image>
+        <title>
+            Material 3 en XML
+        </title>
+        <description>
+            Descripcion del material 3.
+        </description>
+        <enlace>
+            https://github.com
+        </enlace>
+    </element>
+
+    <element>
+        <image>
+            image/logoPH.jpg
+        </image>
+        <title>
+            Material 4 en XML
+        </title>
+        <description>
+            Descripcion del material 4.
+        </description>
+        <enlace>
+            https://github.com
+        </enlace>
+    </element>
+</data>

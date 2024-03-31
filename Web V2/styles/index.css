@@ -1,0 +1,25 @@
+#navbar-margin {
+    background-color: black;
+}
+
+.container-fluid {
+    background-color: black;
+}
+
+#presentationTxt {
+    font-family: PHCT;
+    color: white;
+    display: grid;
+    place-items: rigth;
+    
+}
+
+#theName {
+    margin-right: 30px;
+    border-right: #01bb30 3px solid;
+}
+
+#word {
+    font-size: 3em;
+    text-align: right;
+}

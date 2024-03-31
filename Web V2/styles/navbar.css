@@ -1,0 +1,49 @@
+/*NavBar*/
+@font-face {
+    font-family: PHCT;
+    src: url(PHCT_FONT.ttf);
+}
+
+#barraNav {
+    background-color: black;
+    border: 3px solid #01bb30;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #01bb30;
+}
+
+.fa.fa-bars {
+    color: whitesmoke;
+}
+
+.fa.fa-bars:hover {
+    color: #01bb30;
+}
+
+#brandName {
+    font-family: PHCT;
+    color: white;
+    font-size: 1.5em;
+}
+
+#brandName:hover {
+    color: #01bb30;
+}
+
+.navbar-nav > li:not(:first-child) {
+    margin-left: 30px; 
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+/*^NavBar^*/
