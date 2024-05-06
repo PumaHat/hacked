@@ -56,10 +56,29 @@
 
     <!-- Content -->
     <div class="container-fluid full-height-container">
+      <div class="row justify-content-center" id="Hacking">
+        <div class="col-md-8">
+          <div class="card flex-md-row mb-4 box-shadow h-md-250">
+            <img class="card-img-right flex-auto d-none d-md-block img-desc" src="image/glitched.gif" alt="Card image">
+            <div class="card-body d-flex flex-column align-items-center">
+              <h3 class="mb-0 res-title">
+                PumaHat Hacking Nights
+              </h3></br>
+              <p class="card-text mb-auto descText">Es un grupo de estudio por y para la comunidad, donde nos enfocaremos en resolver juntos máquinas de Hack The Box y Proving Grounds como preparación para la certificación OSCP.</p></br>
+              <h5>Jueves y Sabados 8:00 pm </br></br><a id="access" href="HackingNights.html" target="_blank">Más información</a></h>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- XML -->
+    <div class="container-fluid full-height-container">
         <div class="row justify-content-center" id="events-content">
           
         </div>
     </div>
+
     <!--^Content^-->
     <script>
       // URL del archivo XML
@@ -104,7 +123,7 @@
                   </div>`;
         }
     
-        // Insertar la estructura HTML en el div con id="xmlData"
+        // Insertar la estructura HTML en el div con id="events-content"
         document.getElementById("events-content").innerHTML = html;
       }
     

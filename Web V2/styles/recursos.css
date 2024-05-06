@@ -60,7 +60,7 @@
 
 .descText {
     font-size: 1.2em;
-
+    text-align: center;
 }
 
 .col-md-3 {
@@ -77,4 +77,5 @@
 .res-title {
     padding-top: 0;
     border-bottom: #01bb30 2px solid;
+    text-align: center;
 }
