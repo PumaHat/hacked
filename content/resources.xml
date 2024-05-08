@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+    <element>
+        <image>
+            image/logoPH.jpg
+        </image>
+        <title>
+            Reparando después del hackeo
+        </title>
+        <description>
+            Pronto habrá más información.
+        </description>
+        <enlace>
+            index.html
+        </enlace>
+    </element>
+</data>
