@@ -3,7 +3,7 @@
 <data>
     <element>
         <image>
-            image/logoPH.jpg
+					/image/logoPH.jpg
         </image>
         <title>
             Reparando después del hackeo
@@ -12,7 +12,7 @@
             Pronto habrá más información.
         </description>
         <enlace>
-            index.html
+					/index.html
         </enlace>
     </element>
 </data>
