@@ -1,5 +1,5 @@
 // URL del archivo XML
-const xmlFile = "/content/resources.xml";
+const xmlFile = "/hacked/content/resources.xml";
 
 // Función para cargar y procesar el archivo XML
 function loadXML() {
