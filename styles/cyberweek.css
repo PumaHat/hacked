@@ -13,6 +13,9 @@
 
 .txt-c {
     color: whitesmoke;
+	  display: flex;
+    flex-direction: column;
+    align-items: center;
     margin-top: 7em;
     margin-bottom: 5em;
     text-align: center;
@@ -21,7 +24,16 @@
 .promo {
     font-family: PHCT;
     color: whitesmoke;
+	  word-wrap: break-word;
+    overflow-wrap: break-word;
+	  word-break: break-word;
 }
+
+/* @media (max-width: 576px) { */
+/*     .promo { */
+/*         font-size: 5vw; */
+/*     } */
+/* } */
 
 .message_cw {
     font-family: PHCT;
@@ -42,10 +54,19 @@
 }
 
 .brand {
-    font-size: 3em;
+    font-size: 4em;
     color: #01bb30;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+}
+
+@media (max-width: 576px) {
+    .brand {
+        font-size: 2rem;
+        color: #01bb30;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
 }
 
 #buttonDiv {

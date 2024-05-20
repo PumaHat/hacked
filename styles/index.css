@@ -15,8 +15,28 @@
 }
 
 #theName {
-    margin-right: 30px;
+	  margin: 0;
+    padding: 0;
+    margin-right: 0px;
     border-right: #01bb30 3px solid;
+    word-wrap: break-word;
+}
+
+@media (max-width: 767px) {
+    #theName {
+        border-right: none;
+        border-bottom: 3px solid #01bb30; /* Cambia la línea a horizontal en dispositivos móviles */
+    }
+}
+
+.container-fluid {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.full-height-container {
+    width: 100%;
 }
 
 #word {
