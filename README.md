@@ -23,6 +23,8 @@ La página web del PumaHat Cybersecurity Team ofrece una visión completa y acce
 - **Interactividad:** Elementos como la barra de navegación desplegable y los botones de redes sociales.
 - **Accesibilidad:** Uso de atributos `aria` para mejorar la accesibilidad.
 
+### Enlaces Importantes
+
 - **GitHub:** [PumaHat GitHub](https://github.com/PumaHat/hacked)
 - **Facebook:** [PumaHat en Facebook](https://www.facebook.com/PumaHat)
 - **Twitter:** [PumaHat en Twitter](https://twitter.com/pumahat_unam)
