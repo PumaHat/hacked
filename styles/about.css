@@ -46,9 +46,9 @@
     align-items: center;
   }
   
-  .carousel-item img {
-    width: auto; /* Ajusta el ancho automáticamente /
-    max-width: 80%; / Máximo 80% del contenedor /
-    height: auto; / Mantén la proporción de la imagen /
-    margin: 0 10%; / Agrega espacio a los lados */
-  }
+.carousel-item img {
+  width: auto; 
+  max-width: 80%; 
+  height: auto; 
+  margin: 0 10%;
+}
