@@ -39,16 +39,3 @@
 #space {
     background-color: #2c302e;
 }
-
-.carousel-inner {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-.carousel-item img {
-  width: auto; 
-  max-width: 80%; 
-  height: auto; 
-  margin: 0 10%;
-}
