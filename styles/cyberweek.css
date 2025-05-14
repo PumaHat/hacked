@@ -4,11 +4,11 @@
 }
 
 #navbar-margin {
-    background-color: #2c302e;
+    background-color: #000;
 }
 
 .container-fluid {
-    background-color: #2c302e;
+    background-color: #000;
 }
 
 .txt-c {
@@ -101,4 +101,12 @@
 
 .button-link:hover {
     background-color: #01bb30;
+}
+
+html, body {
+    background-color: #000;
+    color: #fff;
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
