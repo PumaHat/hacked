@@ -1,9 +1,9 @@
 .container-fluid {
-    background-color: #2c302e;
+    background-color: #000;
 }
 
 .card.flex-md-row.mb-4.box-shadow.h-md-250 {
-    background-color: #1A2332;
+    background-color: #000;
     color: whitesmoke;
     text-align: center;
     margin-top: 20px;
