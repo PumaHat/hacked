@@ -110,3 +110,19 @@ html, body {
     margin: 0;
     padding: 0;
 }
+
+* {
+  background-color: transparent !important;
+}
+
+html, body {
+  background-color: #000 !important;
+  color: #fff !important;
+  height: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.container, .container-fluid, .row, #navbar-margin, #buttonDiv {
+  background-color: transparent !important;
+}
